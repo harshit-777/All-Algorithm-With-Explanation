@@ -1,0 +1,25 @@
+Univariate Analysis ---->is the simplest form of analyzing data. “Uni” means “one”, so in other words your data has only one variable (weight with output)
+
+
+Bivariate Analysis ----->  is the simultaneous analysis of two variables (attributes). It explores the concept of relationship between two variables.
+(height,weight and output)
+
+
+Multivariate Analysis ---->Statistical procedure for analysis of data involving more than one type of measurement or observation.(Pairplot of seaborn lib)
+
+Co-relation--->
+
+Pearsons co-relation--->
+
+Normal distribution --->
+
+Standard Normal Distribution--->
+
+Probability density function--> y-axis = % of distribution (bell curve) cant be more then one 
+
+CDF  cumulative dist function --->by adding all pdf points
+
+Z-Score ---->> point - mean / std 
+
+
+
